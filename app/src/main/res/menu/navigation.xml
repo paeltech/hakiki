@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_pin"
+        android:icon="@drawable/ic_pin"
+        android:iconTint="@color/colorWhite"
+        android:title="Authenticate PIN" />
+
+    <item
+        android:id="@+id/navigation_qr"
+        android:icon="@drawable/ic_qr"
+        android:iconTint="@color/colorWhite"
+        android:title="Scan QR" />
+
+    <item
+        android:id="@+id/navigation_help"
+        android:icon="@drawable/ic_help"
+        android:iconTint="@color/colorWhite"
+        android:title="Help" />
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "713444492511",
+    "firebase_url": "https://hakiki-checker.firebaseio.com",
+    "project_id": "hakiki-checker",
+    "storage_bucket": "hakiki-checker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713444492511:android:3d683235d0e5f6e5",
+        "android_client_info": {
+          "package_name": "com.fuat.hakiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713444492511-9qdnnlf6ekjlgl9ll37a2836upg10lj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fuat.hakiki",
+            "certificate_hash": "56bf0afb281783cc8975d5edc1837488b2d7ec48"
+          }
+        },
+        {
+          "client_id": "713444492511-qej11qbmpgfl04hh851t67c6iu1kag5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBecGWbWe7aV1gltLlf6-mfSNdRXH5a1Lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713444492511-qej11qbmpgfl04hh851t67c6iu1kag5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
